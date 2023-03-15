@@ -1,5 +1,5 @@
-# FistConquestGame
-Final C++ game for Object-Oriented Programming Lecture & Lab
+# Fist Conquest - The Game
+A self-developed C++ game based in the UNIX CLI.
 
 
 ## Game Overview
